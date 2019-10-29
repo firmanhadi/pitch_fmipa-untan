@@ -144,5 +144,5 @@ firman@indotechsa.com
 @snapend
 
 @snap[midpoint span-100 text-06]
-[https://github.com/firmanhadi/analisis-geospasial-R-QGIS](https://github.com/firmanhadi/analisis-geospasial-R-QGIS
+[https://github.com/firmanhadi/analisis-geospasial-R-QGIS](https://github.com/firmanhadi/analisis-geospasial-R-QGIS)
 @snapend
