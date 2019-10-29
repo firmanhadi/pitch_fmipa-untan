@@ -143,6 +143,6 @@ firman@indotechsa.com
 ## Let's practice
 @snapend
 
-@snap[midpoint span-100 text-06]
+@snap[midpoint span-100 text-08]
 [https://github.com/firmanhadi/analisis-geospasial-R-QGIS](https://github.com/firmanhadi/analisis-geospasial-R-QGIS)
 @snapend
