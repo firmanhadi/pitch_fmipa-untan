@@ -140,9 +140,9 @@ firman@indotechsa.com
 ---?image=assets/img/presenter.jpg
 
 @snap[north span-100 h2-white]
-## Any question?
+## Let's practice
 @snapend
 
-@snap[south span-100 text-06]
-[You can download this presentation at](https://gitpitch.com/firmanhadi/pitch_fmipa-untan)
+@snap[midpoint span-100 text-06]
+[https://github.com/firmanhadi/analisis-geospasial-R-QGIS](https://github.com/firmanhadi/analisis-geospasial-R-QGIS
 @snapend
